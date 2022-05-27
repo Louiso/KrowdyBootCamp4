@@ -1,10 +1,10 @@
-# Vite + React + Typescript + Eslint + Prettier
+# Reto de despliegue
 
-A starter for React with Typescript with the fast Vite and all static code testing with Eslint and formatting with Prettier.
+https://hub.docker.com/repository/docker/santischuck/krowdylab
 
-![Vite + React + Typescript + Eslint + Prettier](/resources/screenshot.png)
+Aquí está subida la dockerimage.
 
-I found out about Vite and I wanted to have a boilerplate for the technologies that I use. You can find more about these in the following links: [Vite](https://github.com/vitejs/vite), [React](https://reactjs.org/), [Typescript](https://www.typescriptlang.org/), [Eslint](https://eslint.org/), [Prettier](https://prettier.io/).
+reto-despliegue-container.png contiene la imagen que muestra que hice un container con la imagen. No he podido aplicarla al markdown.
 
 ## Installation
 
